@@ -14,8 +14,15 @@ I would like to work as full stack developer.I am interseted in working on techn
 - [My Linkedin](https://www.linkedin.com/in/venkat-sai-jarugula/)
 
 ## My Picture
-![My Pic](https://scontent.fmci2-1.fna.fbcdn.net/v/t39.30808-6/235036058_2075182502622374_6592549868285818140_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=uD5J4P1mTh8AX9YdCIA&_nc_ht=scontent.fmci2-1.fna&oh=00_AT_uLLM9kl2y1i0u0ZGw38_kjFNbBKKimiiiRVxcubXdVQ&oe=61ECE0E5)
-
+![My Pic](https://scontent-ort2-1.xx.fbcdn.net/v/t39.30808-6/234479625_2075236959283595_4357081288845220524_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=e3f864&_nc_ohc=1HVvpZMZiUkAX_hT1rm&_nc_ht=scontent-ort2-1.xx&oh=00_AT-29_s36jx_uEfxtot_9zchsR1fzB2QlUc038bcTmS87w&oe=61F6860D)
+## My Works
+[Resume Maker Project](https://github.com/stars/jarugulavenkat7/lists/resume-maker-project)<br>
+[School Management System Application](https://github.com/stars/jarugulavenkat7/lists/school-management-system)<br>
+[Prettifier Application](https://github.com/stars/jarugulavenkat7/lists/prettifier-application)<br>
+[Java Assignments I worked on](https://github.com/stars/jarugulavenkat7/lists/java-assignments)<br>
+[Android Assignments I worked on](https://github.com/stars/jarugulavenkat7/lists/android-assignments)<br>
+## My Portfolio
+[Click here to view my portfolio](https://jarugulavenkat7.github.io/venkatsaijarugula.github.io/)
 
 
 
